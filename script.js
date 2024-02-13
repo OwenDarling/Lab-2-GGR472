@@ -5,7 +5,7 @@ const map = new mapboxgl.Map({
 	style: 'mapbox://styles/darlingo/clskpyie903pe01qs31gr269t', // style URL
 	center: [-79.3961, 43.6586], // starting position [lng, lat]
 	//Set the zoom settings
-	zoom: 12,
+	zoom: 14,
 	minZoom: 12,
 });
 //Set the overall 
