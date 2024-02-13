@@ -1,0 +1,8 @@
+/*Set the style for the overall webpage, make 
+the map the whole screen*/
+.map-container{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+}
