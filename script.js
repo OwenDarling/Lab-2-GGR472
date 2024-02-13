@@ -196,8 +196,8 @@ map.on('style.load', () => {
 		'source': 'POI-data',
 		'layout': {},
 		'paint': {
-			'fill-color': '#f08',
-			'fill-opacity': 0.5
+			'fill-color': '#6495ED',
+			'fill-opacity': 0.8
 		}
 	});
 // add a outline for the polygons
@@ -280,7 +280,7 @@ map.on('style.load', () => {
 		'source': 'pts-data',
 		'paint': {
 			'circle-radius': 6,
-			'circle-color': '#B42222'
+			'circle-color': '#FF0000'
 		}
 	});
 });
