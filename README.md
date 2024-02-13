@@ -1,0 +1,1 @@
+This is my submision for Lab #2. This webpage has a map that conatains points and polygons that are important to me. The points represent the buildings that I visit most often when I am in Toronto and the polygons represent where I go for walks and enjoy the outdoors while I am in the city.
